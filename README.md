@@ -1,2 +1,3 @@
-# HappyGardenPILogo
-Logo of Happy GarednPI
+# Happy GardenPI Logo
+Logo of Happy GarednPI. 
+SImple logo of project
